@@ -8,7 +8,9 @@ Sample website with plenty of files for demos
 
 ## Intoduction
 
-## Prupose
+## Purpose
+
+This is pupose section
 
 ## Deployment
 
