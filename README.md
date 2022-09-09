@@ -18,5 +18,7 @@ This is deployment section.
 
 ## How To Contibute
 
+Please fork this repository and then issue Pull requests for review
+
 ### Copyright
 2022 Vivek
